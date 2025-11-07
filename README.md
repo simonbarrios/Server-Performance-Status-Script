@@ -70,3 +70,4 @@ These are typically available by default on most Linux distributions.
 - Designed for Linux systems.
 - Disk usage focuses on the root filesystem (`/`). You can modify `DISK_PATH` in the script to target other mount points.
 - Output is printed to the terminal; no logs are saved by default.
+- The Idea of the project was taken from: https://roadmap.sh/projects/server-stats
